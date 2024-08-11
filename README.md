@@ -6,6 +6,6 @@ Shows the image showcasing the line of symmetry as well.
 
 
 The Final Solution Code is in sub.py file.
-
+Added Screenshot of the Sample Image showing the Line of Symmetry.
 
 Thank You
